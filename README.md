@@ -4,9 +4,11 @@ Isinya adalah nama pengirim, tujuan, tanggal pengirim dll
 Saya menggunakan 2 edit text, 3 text view, 1 button, 2 radio button, 1 spinner dan 3 checkbox
 Disini saya menggunakan button untuk menampilkan hasil
 Jika user menginputkan nama pengirim kurang dari 4 huruf maka akan terjadi eror. huruf minimal 4 yang dimasukan
-###![sebelum user menginputkan] (https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0BycZZguS7hJ9amtIMEFRQlFIWG8/view?usp=sharing)
-###![user menginputkan nilai] (https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0BycZZguS7hJ9RGY5WC1PWnFTRms/view?usp=sharing)
-###![menampilkan hasil] (https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0BycZZguS7hJ9WnpERm5rU3hCam8/view?usp=sharing)
+
+![1](https://cloud.githubusercontent.com/assets/22079815/19379102/96dada7e-921a-11e6-9e01-dff029b91adb.JPG)
+
+![2](https://cloud.githubusercontent.com/assets/22079815/19379161/dc91ac6e-921a-11e6-8dbe-08ddab9f8eac.JPG)
+![3](https://cloud.githubusercontent.com/assets/22079815/19379191/040b78b0-921b-11e6-8f04-56d4eae0dc1a.JPG)
 
 #biodata :
 ####Nama : Alifia Putri Ramadhani
